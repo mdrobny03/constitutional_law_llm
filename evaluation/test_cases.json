@@ -1,0 +1,34 @@
+{
+    "test_cases": [
+        {
+            "id": "case1",
+            "facts": "A high school student wore a black armband to school to protest the Vietnam War. The school suspended the student for violating a policy against political demonstrations.",
+            "question": "Did the school's suspension of the student for wearing the armband violate the First Amendment?",
+            "reference": "The Court held that the school's suspension of the student for wearing the armband violated the First Amendment. The wearing of armbands was a form of symbolic speech protected by the First Amendment, and the school's action was not justified by any substantial disruption of school activities or invasion of the rights of others."
+        },
+        {
+            "id": "case2",
+            "facts": "A city passed an ordinance prohibiting all demonstrations in a public park. A group was denied a permit to hold a peaceful protest against government policies.",
+            "question": "Did the city's ban on all demonstrations violate the First Amendment?",
+            "reference": "The Court held that the city's blanket ban on all demonstrations violated the First Amendment. Public parks are traditional public forums where speech is entitled to the highest level of protection. The ordinance was not narrowly tailored to serve a significant government interest and left open ample alternative channels for communication."
+        },
+        {
+            "id": "case3",
+            "facts": "Police stopped a car for a traffic violation and searched the trunk without consent or a warrant, finding illegal drugs.",
+            "question": "Did the warrantless search of the car's trunk violate the Fourth Amendment?",
+            "reference": "The Court held that the warrantless search of the car's trunk violated the Fourth Amendment. While the automobile exception allows warrantless searches of vehicles under certain circumstances, the search must be supported by probable cause. The traffic violation alone did not provide probable cause to search the trunk."
+        },
+        {
+            "id": "case4",
+            "facts": "A public school required students to recite a prayer at the beginning of each school day.",
+            "question": "Did the school's mandatory prayer violate the Establishment Clause?",
+            "reference": "The Court held that the school's mandatory prayer violated the Establishment Clause. The practice constituted an establishment of religion because it was a religious exercise directed by the state, and it coerced students to participate in religious activity. The Establishment Clause requires government neutrality toward religion."
+        },
+        {
+            "id": "case5",
+            "facts": "A state provided textbooks to both public and private religious schools.",
+            "question": "Did the state's provision of textbooks to religious schools violate the Establishment Clause?",
+            "reference": "The Court held that the state's provision of textbooks to religious schools did not violate the Establishment Clause. The program had a secular purpose, did not have the primary effect of advancing religion, and did not create excessive entanglement between government and religion. The textbooks were provided to all students regardless of their religious affiliation."
+        }
+    ]
+} 
