@@ -22,7 +22,6 @@ constitutional_law_llm/
 ├── notebooks/
 │   ├── 01_data_exploration.ipynb     # Data analysis and exploration
 │   ├── 02_model_training.ipynb       # Interactive training workflow
-│   └── 03_evaluation.ipynb           # Model evaluation and testing
 ├── evaluation/
 │   ├── test_cases.json         # Test cases for evaluation
 │   └── generation_analysis.py  # Response generation analysis
